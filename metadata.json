@@ -1,0 +1,7 @@
+{
+  "name": "Zest: The Excitement Engine",
+  "description": "An interactive AI companion designed to kill boredom instantly through real-time voice chat, personalized activity generation, and immersive visual storytelling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
